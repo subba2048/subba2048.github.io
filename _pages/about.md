@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Subba, an aspiring AI/ML researcher and a senior software engineer with a Master’s degree in Computer Science (AI/ML focus). I currently work at the University of Texas, where I help build and modernize enterprise-grade applications. Prior to this, I completed my M.S. in Computer Science at UTRGV, following my undergraduate studies in Computer Science and Engineering. My background spans both research-driven ML projects and production-level system development.
+Hi, I’m Subba, an Applied Machine Learning Engineer and Senior Software Engineer with 7+ years of experience building scalable ML systems and data-driven platforms across cloud and distributed environments. I hold a Master’s degree in Computer Science with a focus on AI/ML and currently work at the University of Texas, where I design and modernize enterprise-grade applications.
+
+My expertise spans Python (NumPy, Pandas, scikit-learn), PyTorch, TensorFlow, and end-to-end ML workflows, including data acquisition, feature engineering, model development, and deployment. I specialize in translating complex engineering problems into practical ML solutions, delivering high-impact, production-ready systems.
+
+With a strong foundation in Azure cloud, CI/CD, and scalable system design, I bring a hybrid background in applied ML research and production software engineering, focused on building intelligent systems that solve real-world problems.
 
 Research
 ======
@@ -27,14 +31,12 @@ Publications
 Industrial Experience
 ======
 
-1. [2022.01–Now] Software Engineer at University of Texas Rio Grande Valley (UTRGV), Enterprise Systems Group – leading modernization of enterprise web/mobile systems for ~38,000 users; integrating ML-powered analytics and Azure cloud migration.
-
+1. [2022.01–Now] Senior Software Engineer at University of Texas Rio Grande Valley (Applied ML & Data Systems)
 2. [2020.08–2021.12] Graduate Researcher, M.S. Computer Science (AI/ML), UTRGV – conducted research in deep learning, computer vision, recommendation systems, and quality-control automation under faculty mentorship.
 
-3. [2017.03–2018.04] Software Developer at CAPIOT Software (acquired by Persistent Systems), Bengaluru – transitioned backend systems from LAMP to MEAN stack; designed microservices for large-scale e-commerce and NLP/ML-enabled fintech platforms.
+3. [2017.03–2018.04] Software Developer at CAPIOT Software(Persistent Systems)
 
-4. [2015.01–2017.03] Programmer Analyst at Cognizant Technology Solutions – developed SharePoint/ASP.NET enterprise applications and workflow automation solutions for global clients.
-
+4. [2015.01–2017.03] Programmer Analyst at Cognizant Technology Solutions
 Portfolio
 =======
 
