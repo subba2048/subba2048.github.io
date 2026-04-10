@@ -43,7 +43,7 @@ Portfolio
 ## [Predictive Maintenance System for Sensor-Based Failure Forecasting](https://github.com/your-username/project-0 "GitHub"){:target="_blank"}
 <img src='/images/project-0.png.png' alt='Project-0 Image' style="width:400px;height:auto;">
 
-Built an end-to-end applied machine learning system to predict equipment degradation and remaining useful life from multivariate sensor data. This project demonstrates a full workflow spanning data acquisition, feature engineering, model training, evaluation, and deployment, closely aligned with real-world engineering use cases.
+An end-to-end applied machine learning system to predict equipment degradation and remaining useful life from multivariate sensor data. This project demonstrates a full workflow spanning data acquisition, feature engineering, model training, evaluation, and deployment, closely aligned with real-world engineering use cases.
 
 ### What this project does
 - Forecasts equipment failure risk using multivariate time-series sensor streams
@@ -58,7 +58,7 @@ Built an end-to-end applied machine learning system to predict equipment degrada
 ## [Industrial Defect Detection for Smart Manufacturing](https://github.com/your-username/project-4 "GitHub"){:target="_blank"}
 <img src='/images/project-4.png' alt='Project-4 Image' style="width:400px;height:auto;">
 
-Developed a computer vision-based defect detection system for automated inspection in manufacturing environments. This project focuses on identifying anomalies and defects in industrial materials using deep learning models, simulating real-world quality control systems.
+A computer vision-based defect detection system for automated inspection in manufacturing environments. This project focuses on identifying anomalies and defects in industrial materials using deep learning models, simulating real-world quality control systems.
 
 ### What this project does
 - Detects defects in industrial images using deep learning and anomaly detection techniques  
