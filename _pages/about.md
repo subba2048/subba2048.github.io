@@ -40,7 +40,10 @@ Industrial Experience
 Portfolio
 =======
 ## [Predictive Maintenance System for Sensor-Based Failure Forecasting](https://github.com/your-username/project-0 "GitHub"){:target="_blank"}
-<img src='/images/project-0.png' alt='Project-0 Image' style="width:400px;height:auto;">
+<img src='/images/project-0.png.png' alt='Project-0 Image' style="width:400px;height:auto;">
+
+## [Industrial Defect Detection for Smart Manufacturing](https://github.com/your-username/project-4 "GitHub"){:target="_blank"}
+<img src='/images/project-4.png.png' alt='Project-4 Image' style="width:400px;height:auto;">
 
 ## [Deep Learning CNN-based visual Quality Control Application](https://github.com/your-username/project-1 "GitHub"){:target="_blank"}
 <img src='/images/project-1.png' alt='Project-1 Image' style="width:400px;height:auto;">
