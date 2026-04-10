@@ -39,6 +39,8 @@ Industrial Experience
 4. [2015.01–2017.03] Programmer Analyst at Cognizant Technology Solutions
 Portfolio
 =======
+## [Predictive Maintenance System for Sensor-Based Failure Forecasting](https://github.com/your-username/project-0 "GitHub"){:target="_blank"}
+<img src='/images/project-0.png' alt='Project-0 Image' style="width:400px;height:auto;">
 
 ## [Deep Learning CNN-based visual Quality Control Application](https://github.com/your-username/project-1 "GitHub"){:target="_blank"}
 <img src='/images/project-1.png' alt='Project-1 Image' style="width:400px;height:auto;">
